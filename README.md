@@ -30,11 +30,14 @@ To generate a clip:
 
 2. Go to the corresponding folder in command line.
 
-3. run the command "manim [file] [class]". 
+3. run the command "manim [file] [class]".
+   
 -For example, "manim q-tangents.py obs" produces the video of change of coordinates being smooth.
+
 -Notice that each python file contains a large number of classes. 
 
-4. The video is saved in "media/videos/[file]/1080p60".
+5. The video is saved in "media/videos/[file]/1080p60".
+   
 -See https://docs.manim.community/en/stable/tutorials/output_and_config.html for further compiling settings
 
 
