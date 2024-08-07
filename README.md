@@ -36,7 +36,7 @@ To generate a clip:
 
 -Notice that each python file contains a large number of classes. 
 
-5. The video is saved in "media/videos/[file]/1080p60".
+4. The video is saved in "media/videos/[file]/1080p60".
    
 -See https://docs.manim.community/en/stable/tutorials/output_and_config.html for further compiling settings
 
